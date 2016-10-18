@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-10-18T14:35:18Z" product-name="extnews">
+		<header/>
+		<body>
+			<trans-unit id="tx_extnews_domain_model_extnews">
+				<source>Extnews</source>
+			</trans-unit>
+			<trans-unit id="tx_extnews_domain_model_extnews.subtitle">
+				<source>Subtitle</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.tx_extbase_type.Tx_Extnews_Extnews">
+				<source>extnews Extnews</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
